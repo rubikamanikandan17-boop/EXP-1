@@ -40,35 +40,42 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
+
 
 
 a.   KVL:
- 
+![WhatsApp Image 2025-10-18 at 10 00 36_fadcc4ee](https://github.com/user-attachments/assets/a07b0330-4a36-48f8-ba7a-749aea228a06)
 
 
 b.  KCL:
- 
+![WhatsApp Image 2025-10-18 at 10 00 37_403dffd1](https://github.com/user-attachments/assets/6a78ee26-deb6-4fde-955e-9df89e9b5f78)
+![WhatsApp Image 2025-10-18 at 10 06 36_121a528f](https://github.com/user-attachments/assets/b170bf4e-fa06-4bea-9219-dab1bf42994b)
 
 Calculation:
 
 a.   KVL:
+![WhatsApp Image 2025-10-18 at 09 30 38_3add7c53](https://github.com/user-attachments/assets/9d9be57e-8274-48aa-8c98-27739c25345a)
  
+![WhatsApp Image 2025-10-18 at 09 30 37_b153189c](https://github.com/user-attachments/assets/a72b4f90-7270-4846-9de8-fb8dd8e263c3)
+
 
 
 b.  KCL:
+![WhatsApp Image 2025-10-18 at 10 06 36_121a528f](https://github.com/user-attachments/assets/79b50992-dc6b-4236-a973-43f0af200fde)
 
+![WhatsApp Image 2025-10-18 at 09 30 38_3add7c53](https://github.com/user-attachments/assets/953e93dd-ce03-477d-811c-357642a3d1f2)
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2025-10-18 at 09 30 39_990f7656](https://github.com/user-attachments/assets/1d9f4eef-4acf-41dc-9066-4778ac68c598)
 
 
 b.  KCL:
 
+![WhatsApp Image 2025-10-18 at 09 30 40_1261dee8](https://github.com/user-attachments/assets/8e218cfc-dbc9-4d1e-a92f-ee76d4a88b35)
 
 
 RESULT:
